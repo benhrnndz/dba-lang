@@ -1,0 +1,12 @@
+﻿ClientNo,FirstName,MidName,Surname,Street,City,Zip,CreditLimit
+C1,Yoko,     Isuzu,Dela Pena,V.Cruz,Marikina,1114,50000
+C2,Atsuko,Sazaki,Corpuz,Paterno,Manila,2000,20000
+C3,Reiko,Patel,Yoshimori,Quezon,Las Pinas,3000,100000
+C4,Kalpint,Paz,Visvanathan,Sampaloc,Quezon City,3111,80000
+C5,    Hanae,Shimode,Miki,Rosario,Valenzuela,2001,40000
+C6,Chiguza,Midori,Reyes,San Juan,Makati,2222,50000
+C7,Akiko,Tesoro,Cruz,Ocampo,Taguig,2444,65000
+C8,Aiko,Balagtas,Ocampo,Prudencio,Malabon,1122,70000
+C9,     Suzumi,Castillo,Cuevas,Palanca,Caloocan,3344,90000
+C10,Masato,Perez,Diaz,Ipo,Pasig,5566,110000
+C11,Michiko,Casimiro,Dimaunahan,Lunas,Pasay,8888,95000

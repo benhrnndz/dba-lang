@@ -1,0 +1,17 @@
+﻿EmpNo,EmpName,Salary,JobLevel,DeptCode,Estatus,hiredate
+1,Akiko Thompson,100000,MGR,ISD,R,2025-01-16
+2,Miki Mami,120000,MGR,FIN,R,2024-01-17
+3,Chigu Suzuki,115000,MGR,OPN,R,2020-01-18
+4,Hanae Kobayashi,140000,MGR,SAL,P,2021-04-19
+5,Atsuko Celdran,60000,AM,ISD,P,2021-05-20
+6,Yoko Cruz,50000,TL,OPN,P,2021-03-21
+7,Reiko Carpenter,50000,TL,SAL,C,2018-01-22
+8,Aikiko Melendez,50000,TL,FIN,C,2018-05-23
+9,Kenra Reyes,55000,AM,ISD,C,2017-02-24
+10,Mischka Laserna,65000,AM,FIN,R,2018-01-25
+11,Jenny Balayas,40000,SSE,SAL,R,2018-01-26
+12,Carmen Balagtas,35000,SE,OPN,R,2019-01-27
+13,Jeanne Manio,40000,SE,OPN,P,2021-04-28
+14,Christopher Rivo,50000,TL,SAL ,P,2021-06-29
+15,Janet Japson,55000,AM,FIN,C,2019-01-30
+16,Julio Ignacio,45000,SSE,ISD,R,2015-01-31
