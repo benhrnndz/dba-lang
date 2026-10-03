@@ -105,8 +105,30 @@ JOIN dba_exercise2.order O ON C.ClientNo = O.ClientNo
 GROUP BY C.ClientNo
 HAVING InvoiceCount > 1;
 
+-- Add ClientMentor column (stores ClientNo of the mentor)
 ALTER TABLE Client2
-	ADD ClientMentor VARCHAR(20),
-    ADD ClientMentNo INT;
+	ADD ClientMentor VARCHAR(5);
 
+-- Add a foreign key so ClientMentor must reference an existing ClientNo
+ALTER TABLE Client2
+	ADD CONSTRAINT mentor_fk
+    FOREIGN KEY (ClientMentor)
+    REFERENCES Client2 (ClientNo);
 
+-- Populate ClientMentor for some clients (not all — it's optional)
+UPDATE Client2 SET ClientMentor = 'C3' WHERE ClientNo = 'C1';
+UPDATE Client2 SET ClientMentor = 'C6' WHERE ClientNo = 'C2';
+UPDATE Client2 SET ClientMentor = 'C1' WHERE ClientNo = 'C5';
+UPDATE Client2 SET ClientMentor = 'C8' WHERE ClientNo = 'C7';
+UPDATE Client2 SET ClientMentor = 'C3' WHERE ClientNo = 'C9';
+UPDATE Client2 SET ClientMentor = 'C10' WHERE ClientNo = 'C11';
+
+-- Display client name, client id, mentor id, and mentor name
+-- LEFT JOIN so clients without mentors still appear
+SELECT 
+	C.ClientNo,
+    CONCAT(TRIM(C.FirstName), ' ', LEFT(C.MidName, 1), '. ', C.Surname) AS ClientName,
+    C.ClientMentor AS MentorID,
+    CONCAT(TRIM(M.FirstName), ' ', LEFT(M.MidName, 1), '. ', M.Surname) AS MentorName
+FROM Client2 C
+LEFT JOIN Client2 M ON C.ClientMentor = M.ClientNo;
