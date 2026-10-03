@@ -1,0 +1,9 @@
+ProductCode,ProductDescription,UnitCost,Category
+DP,Paracetamol,15,Drug
+DI,Ibuprofen,25,Drug
+FT1,Canned Tomato,40,Food
+FS,Sardines,10,Food
+FT2,Canned Tuna,40,Food
+HCS,Conditioner,50,Hair Care
+HC1,Shampoo,80,Hair Care
+BCB,Bar Soap,30,Body Care
