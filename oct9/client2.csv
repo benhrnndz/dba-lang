@@ -1,0 +1,12 @@
+ClientNo,FirstName,MidName,Surname,Street,City,Zip,Email,MobileNo,Landline,CreditLimit
+C1,Yoko,     Isuzu,Dela Pena,V.Cruz,Marikina,1114,izuyo@gmail.com,0915-111-2222,7314444,1000
+C2,Atsuko,Sazaki,Corpuz,Paterno,Manila,2000,sazat@gmail.com,,5555555,2000
+C3,Reiko,Patel,Yoshimori,Quezon,Las Pinas,3000,,,9111111,3000
+C4,Kalpint,Paz,Visvanathan,Sampaloc,Quezon City,3111,,,9108976,2500
+C5,    Hanae,Shimode,Miki,Rosario,Valenzuela,2001,shiha@gmail.com,0933-111-2222, ,1500
+C6,Chiguza,Midori,Reyes,San Juan,Makati,2222,,0917-520-230, ,4000
+C7,Akiko,Tesoro,Cruz,Ocampo,Taguig,2444,tesak@gmail.com,, ,3500
+C8,Aiko,Balagtas,Ocampo,Prudencio,Malabon,1122,balai@gmail.com,,7801212,4500
+C9,     Suzumi,Castillo,Cuevas,Palanca,Caloocan,3344,cassu@gmail.com,,7779999,2000
+C10,Masato,Perez,Diaz,Ipo,Pasig,5566,perma@gmail.com,,7618989,2500
+C11,Michiko,Casimiro,Dimaunahan,Lunas,Pasay,8888,casmi@gmail.com,,9019090,1500
