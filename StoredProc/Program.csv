@@ -1,0 +1,15 @@
+SProgram,CourseCode,Description,Units
+BSCS,COMP 1018,Introduction to Computing,3
+BSCS,COMP 1030,Programming 1,3
+BSCS,COMP 2023,Data Structures,3
+BSCS,COMP 3023,Object Oriented Programming,3
+BSCS,COMP 3038,Design of Algorithm,3
+BSCS,COMP 4039,Thesis,3
+BSCS,COMP 4040,Practicum,3
+BSIT,COMP 1018,Introduction to Computing,3
+BSIT,COMP 1030,Programming 1,3
+BSIT,COMP 2023,Data Structures,3
+BSIT,COMP 3023,Object Oriented Programming,3
+BSIT,COMP 3038,Design of Algorithm,3
+BSIT,COMP 4039,Capstone,3
+BSIT,COMP 4040,Practicum,3
