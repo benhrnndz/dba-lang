@@ -1,0 +1,16 @@
+ExamineeID,Name,School,Status,ContactNo,Address,Graduated,Score
+1,Kenra Lee,PUP,IR,0921-9999,"#14 Flower St., Sampaloc Manila",2023,90
+2,Genie Lopez,ADMU,IR,0919-7777,"123 Anywhere Ave., Pasig",2022,90
+3,Sophia Dy,UP,IR,0933-1111,Blk1 Lot 4 Ingels Ave. Pasig City,2020,95
+4,Nats Diaz,DLSU,IR,0933-3434,"90 Taal St, La Loma, Q.C.",2021,85
+5,Thea Reyes,FEU,R,0939-9090,"78 Sure St. , Tondo, Manila",2022,80
+6,James Cuevas,UP,R,0917-1234,"45 Hiligaynon St., Quezon City",2022,75
+7,Janice Co,BSU,R,0915-5555,"Blk 53 Lot 35 Greenbreeze St, Q.C.",2021,97
+8,Pauline Go,PUP,R,0999-9999,89 Silver Ave. Manila,2021,70
+9,Jett Li,ADMU,R,0918-4321,"#66 Wakas St, Q.C.",2024,85
+10,Eunise Sy,FEU,R,0977-1122,"111 Anonas St, Sta. Mesa, Manila",2024,75
+11,Markus Tan,FEU,R,0977-1144,"123 Pureza St, Sta. Mesa, Manila",2024,95
+12,Janice Co,DLSU,R,0915-5555,"Blk 53 Lot 35 Greenbreeze St, Q.C.",2023,91
+14,Pauline Go,PUP,R,0917-9999,"56 Sylvia Heights, Manila",2023,97
+15,Pauline Go,UP,R,0933-9999,"123 Slater Flood, Manila",2021,95
+16,Pauline Go,ADMU,R,0999-9119,"80 Crown Plaza, Pasig ",2023,93
